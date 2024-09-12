@@ -12,7 +12,5 @@ public class RocketmqConflg {
 
     private String nameServer;
 
-    private String topic;
-
     private String consumerGroup;
 }

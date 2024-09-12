@@ -4,6 +4,5 @@ spring:
 
 rocketmq:
   nameServer: 192.168.6.32:9876
-  topic: mq_test_topic
   producerGroup: producer_group
   consumerGroup: consumer_group
